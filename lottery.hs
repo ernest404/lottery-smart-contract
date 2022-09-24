@@ -32,13 +32,6 @@ import qualified Data.ByteString.Char8     as C
 import Ledger.AddressMap
 import System.Random
 
-{-
-    Plutus Contract
-    
-    Company: Adelaide Group, LLC
-    Author: Jason Toevs
-    Year: 2021
--}
 
 
 -- | DEFAULT Parameters for the Lottery. Ends in 50 Slots with 5 players.
